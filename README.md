@@ -1,8 +1,4 @@
----
-  tags: rack, advanced, middleware 
-  languages: ruby
-  resources: 0
----
+
 
 ## Rack Lab
 
